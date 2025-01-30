@@ -1,0 +1,6 @@
+@DotnetToToDoDoLiList_HostAddress = http://localhost:5196
+
+GET {{DotnetToToDoDoLiList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
